@@ -1,0 +1,6 @@
+{
+  "name": "Zahra Hijab & Pashmina Store",
+  "description": "Webstore & Marketplace Hijab Pastel Cantik dengan Shopping Cart, Bukti Pembayaran, dan Panel Admin Lengkap",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
